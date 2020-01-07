@@ -10,7 +10,7 @@ public class Decomp2 {
 		String[] arr = str.split("");
 
 		String result = "";
-		String prev = "";
+		String prev = ""; 
 
 		for (int i = 0; i < arr.length-1; i++) {
 
